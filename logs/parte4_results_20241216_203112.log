@@ -1,0 +1,64 @@
+[2024-12-16 20:31:12,174] INFO: ==================================================
+[2024-12-16 20:31:12,174] INFO: ==================================================
+[2024-12-16 20:31:12,175] INFO: Test Execution Started
+[2024-12-16 20:31:12,175] INFO: Test Execution Started
+[2024-12-16 20:31:12,175] INFO: Student: Randal Geovanny Ayales Salgado
+[2024-12-16 20:31:12,175] INFO: Student: Randal Geovanny Ayales Salgado
+[2024-12-16 20:31:12,176] INFO: Date: 2024-12-16
+[2024-12-16 20:31:12,176] INFO: Date: 2024-12-16
+[2024-12-16 20:31:12,176] INFO: Testing File: parte4.py
+[2024-12-16 20:31:12,176] INFO: Testing File: parte4.py
+[2024-12-16 20:31:12,177] INFO: Testing Functions from: parte2.py
+[2024-12-16 20:31:12,177] INFO: Testing Functions from: parte2.py
+[2024-12-16 20:31:12,177] INFO: ==================================================
+[2024-12-16 20:31:12,177] INFO: ==================================================
+[2024-12-16 20:31:12,177] INFO: Testing aplanar with input: [[1, 2, 3], [], [3], [5, 6]]
+[2024-12-16 20:31:12,177] INFO: Testing aplanar with input: [[1, 2, 3], [], [3], [5, 6]]
+[2024-12-16 20:31:12,194] INFO: Testing aplanar with input: [[], [], []]
+[2024-12-16 20:31:12,194] INFO: Testing aplanar with input: [[], [], []]
+[2024-12-16 20:31:12,204] INFO: Testing aplanar with input: [[1], [2], [3]]
+[2024-12-16 20:31:12,204] INFO: Testing aplanar with input: [[1], [2], [3]]
+[2024-12-16 20:31:12,213] INFO: Testing aplanar with input: []
+[2024-12-16 20:31:12,213] INFO: Testing aplanar with input: []
+[2024-12-16 20:31:12,225] INFO: Testing diccionario_anidado with:
+Keys: [8, 3, 2]
+Values: {'python': 4, 'is': 5, 'best': 9}
+[2024-12-16 20:31:12,225] INFO: Testing diccionario_anidado with:
+Keys: [8, 3, 2]
+Values: {'python': 4, 'is': 5, 'best': 9}
+[2024-12-16 20:31:12,235] INFO: Testing diccionario_anidado with:
+Keys: []
+Values: {}
+[2024-12-16 20:31:12,235] INFO: Testing diccionario_anidado with:
+Keys: []
+Values: {}
+[2024-12-16 20:31:12,244] INFO: Testing diccionario_anidado with:
+Keys: [1]
+Values: {'a': 1}
+[2024-12-16 20:31:12,244] INFO: Testing diccionario_anidado with:
+Keys: [1]
+Values: {'a': 1}
+[2024-12-16 20:31:12,257] INFO: Testing error case with mismatched lengths
+[2024-12-16 20:31:12,257] INFO: Testing error case with mismatched lengths
+[2024-12-16 20:31:12,267] INFO: Testing permutaciones with input: [1, 2, 3]
+[2024-12-16 20:31:12,267] INFO: Testing permutaciones with input: [1, 2, 3]
+[2024-12-16 20:31:12,278] INFO: Testing permutaciones with input: [1]
+[2024-12-16 20:31:12,278] INFO: Testing permutaciones with input: [1]
+[2024-12-16 20:31:12,289] INFO: Testing permutaciones with input: []
+[2024-12-16 20:31:12,289] INFO: Testing permutaciones with input: []
+[2024-12-16 20:31:12,302] INFO: Testing permutaciones with input: [1, 2]
+[2024-12-16 20:31:12,302] INFO: Testing permutaciones with input: [1, 2]
+[2024-12-16 20:31:12,310] INFO: 
+Test Summary:
+[2024-12-16 20:31:12,310] INFO: 
+Test Summary:
+[2024-12-16 20:31:12,310] INFO: ==================================================
+[2024-12-16 20:31:12,310] INFO: ==================================================
+[2024-12-16 20:31:12,310] INFO: Total tests: 3
+[2024-12-16 20:31:12,310] INFO: Total tests: 3
+[2024-12-16 20:31:12,311] INFO: Passed: 3
+[2024-12-16 20:31:12,311] INFO: Passed: 3
+[2024-12-16 20:31:12,311] INFO: Failed: 0
+[2024-12-16 20:31:12,311] INFO: Failed: 0
+[2024-12-16 20:31:12,311] INFO: ==================================================
+[2024-12-16 20:31:12,311] INFO: ==================================================
