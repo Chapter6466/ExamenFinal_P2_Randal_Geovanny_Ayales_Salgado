@@ -6,10 +6,11 @@ This repository contains the implementation and testing of various Python progra
 
 ## Project Structure
 
-The project consists of three main Python files:
+The project consists of four main Python files:
 - `parte1.py`: Contains theoretical questions and answers about Python concepts
 - `parte2.py`: Implements three core functions for list and dictionary manipulation
 - `parte3.py`: Contains unit tests for the implemented functions
+- `pExtras.py`: Contains an extra question regardinf One Piece
 
 ## Core Functions
 
