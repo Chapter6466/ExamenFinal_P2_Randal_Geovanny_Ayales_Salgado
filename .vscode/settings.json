@@ -138,5 +138,13 @@
         "vehículos",
         "velocidad",
         "volver"
-    ]
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:ExamenFinal_P2_Randal_Geovanny_Ayales_Salgado}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }
